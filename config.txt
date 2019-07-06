@@ -1,0 +1,6 @@
+owner=591763369598517249
+prefix=!
+game=Same Creative
+stayinchannel=true
+songinstatus=false
+token=NTk3MTIyMDIxMzQ4MDgxNjc0.XSDibA.NX-r0J8phA6xZn2GEsOoKMDMt2c
